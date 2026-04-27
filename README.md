@@ -59,7 +59,7 @@
 npm run deploy
 ```
 
-Atau kunjungi: ![Preview](https://delta-polder-indonesia.github.io/create-professional-nature-animation/)
+Atau kunjungi: [Preview](https://delta-polder-indonesia.github.io/create-professional-nature-animation/)
 
 ---
 
