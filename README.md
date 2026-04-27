@@ -8,7 +8,7 @@
 
 > **Animasi pemandangan alam interaktif yang mengikuti jam dan cuaca real-time.** Nikmati keindahan Gunung, Pantai, Pedesaan, dan Hutan yang berubah sesuai waktu dan kondisi cuaca di lokasimu.
 
-![Preview](https://delta-polder-indonesia.github.io/create-professional-nature-animation/🌐-Live_Demo-brightgreen)
+![Preview](https://img.shields.io/badge/🌐-Live_Demo-brightgreen)
 
 ---
 
@@ -59,7 +59,7 @@
 npm run deploy
 ```
 
-Atau kunjungi: (https://delta-polder-indonesia.github.io/create-professional-nature-animation/)
+Atau kunjungi: ![Preview](https://delta-polder-indonesia.github.io/create-professional-nature-animation/)
 
 ---
 
