@@ -59,7 +59,7 @@
 npm run deploy
 ```
 
-Atau kunjungi: `https://username.github.io/pemandangan-alam-animasi`
+Atau kunjungi: `https://delta-polder-indonesia.github.io/create-professional-nature-animation/`
 
 ---
 
